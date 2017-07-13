@@ -4,6 +4,7 @@
                         'Elixir.RsvpWeb.Endpoint',
                         'Elixir.RsvpWeb.ErrorHelpers',
                         'Elixir.RsvpWeb.ErrorView',
+                        'Elixir.RsvpWeb.EventChannel',
                         'Elixir.RsvpWeb.EventController',
                         'Elixir.RsvpWeb.EventView','Elixir.RsvpWeb.Gettext',
                         'Elixir.RsvpWeb.LayoutView',

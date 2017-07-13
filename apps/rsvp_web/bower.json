@@ -1,0 +1,20 @@
+{
+  "name": "rsvp_web",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ffiargus <rm.chow@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ffiargus/Eventr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
